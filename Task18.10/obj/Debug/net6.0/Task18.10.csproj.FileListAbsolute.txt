@@ -1,0 +1,14 @@
+D:\Task18.10\Task18.10\bin\Debug\net6.0\Task18.10.exe
+D:\Task18.10\Task18.10\bin\Debug\net6.0\Task18.10.deps.json
+D:\Task18.10\Task18.10\bin\Debug\net6.0\Task18.10.runtimeconfig.json
+D:\Task18.10\Task18.10\bin\Debug\net6.0\Task18.10.dll
+D:\Task18.10\Task18.10\bin\Debug\net6.0\Task18.10.pdb
+D:\Task18.10\Task18.10\obj\Debug\net6.0\Task18.10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task18.10\Task18.10\obj\Debug\net6.0\Task18.10.AssemblyInfoInputs.cache
+D:\Task18.10\Task18.10\obj\Debug\net6.0\Task18.10.AssemblyInfo.cs
+D:\Task18.10\Task18.10\obj\Debug\net6.0\Task18.10.csproj.CoreCompileInputs.cache
+D:\Task18.10\Task18.10\obj\Debug\net6.0\Task18.10.dll
+D:\Task18.10\Task18.10\obj\Debug\net6.0\refint\Task18.10.dll
+D:\Task18.10\Task18.10\obj\Debug\net6.0\Task18.10.pdb
+D:\Task18.10\Task18.10\obj\Debug\net6.0\Task18.10.genruntimeconfig.cache
+D:\Task18.10\Task18.10\obj\Debug\net6.0\ref\Task18.10.dll
